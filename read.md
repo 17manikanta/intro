@@ -1,2 +1,2 @@
 #description
-Welcome to github.
+Welcome to gittool.
